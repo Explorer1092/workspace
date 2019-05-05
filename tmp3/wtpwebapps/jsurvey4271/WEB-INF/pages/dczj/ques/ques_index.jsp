@@ -101,7 +101,6 @@ html, body {
 				</tr>
 			</table>
 		</div>
-		123
 		<div class="layui-body" id="divquespage" style="top: 50px; left: 0px; background-color: #f0f0f0">
 			<iframe src="" name="quespage" id="quespage" frameborder="0" style="width: 100%; height: 99%;"></iframe>
 		</div>
