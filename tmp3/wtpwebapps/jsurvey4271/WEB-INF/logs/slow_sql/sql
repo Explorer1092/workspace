@@ -1,0 +1,2 @@
+2019-05-05 09:19:16 [complat3]  WARN sqltiming:316 -  org.springframework.jdbc.core.JdbcTemplate$2.doInPreparedStatement(JdbcTemplate.java:883)
+260. UPDATE jsurvey_titleinfo SET state=0 WHERE iid = 5  {executed in 353 msec} (HANWEB Co. Ltd.)
