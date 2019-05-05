@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun May 05 14:42:42 CST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Administrator\\workspace\\test_429\\WebContent\\WEB-INF\\lib\\javamelody-core-1.74.0.jar=WEB-INF/lib/javamelody-core-1.74.0.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Administrator\\workspace\\test_429\\WebContent\\WEB-INF\\lib\\spring-web-4.3.16.RELEASE.jar=WEB-INF/lib/spring-web-4.3.16.RELEASE.jar
